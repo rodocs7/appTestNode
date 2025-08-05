@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Extrato Bancário</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #eee;
+    }
+  </style>
+</head>
+<body>
+  <h1>Extrato Bancário</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Data</th>
+        <th>Histórico</th>
+        <th>Valor</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% extrato.forEach(item => { %>
+        <tr>
+          <td><%= item.Data %></td>
+          <td><%= item.Historico %></td>
+          <td>R$ <%= item.Valor.toFixed(2) %></td>
+        </tr>
+      <% }); %>
+    </tbody>
+  </table>
+
+  <br />
+  <form action="/logout" method="get">
+    <button type="submit">Logout</button>
+  </form>
+</body>
+</html>

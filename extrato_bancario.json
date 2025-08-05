@@ -1,0 +1,362 @@
+[
+    {
+        "Data": "01/02/2025",
+        "Historico": "Salario",
+        "Valor": 10000
+    },
+    {
+        "Data": "17/02/2025",
+        "Historico": "Delivery",
+        "Valor": -2758.44
+    },
+    {
+        "Data": "15/02/2025",
+        "Historico": "Roupas",
+        "Valor": -2231.19
+    },
+    {
+        "Data": "30/01/2025",
+        "Historico": "Farmácia",
+        "Valor": -2556.31
+    },
+    {
+        "Data": "09/03/2025",
+        "Historico": "Café",
+        "Valor": -934.51
+    },
+    {
+        "Data": "29/01/2025",
+        "Historico": "Internet",
+        "Valor": -451.36
+    },
+    {
+        "Data": "02/03/2025",
+        "Historico": "Aluguel",
+        "Valor": -1435.72
+    },
+    {
+        "Data": "19/01/2025",
+        "Historico": "Supermercado",
+        "Valor": -1625.13
+    },
+    {
+        "Data": "09/03/2025",
+        "Historico": "Café",
+        "Valor": -2963.76
+    },
+    {
+        "Data": "21/02/2025",
+        "Historico": "Conta de Água",
+        "Valor": -1617.08
+    },
+    {
+        "Data": "27/02/2025",
+        "Historico": "Conta de Água",
+        "Valor": -2440.15
+    },
+    {
+        "Data": "19/02/2025",
+        "Historico": "Supermercado",
+        "Valor": -2155.14
+    },
+    {
+        "Data": "01/03/2025",
+        "Historico": "Adiantamento",
+        "Valor": 4800
+    },	
+    {
+        "Data": "16/02/2025",
+        "Historico": "Conta de Luz",
+        "Valor": -884.51
+    },
+    {
+        "Data": "14/01/2025",
+        "Historico": "Delivery",
+        "Valor": -399.34
+    },
+    {
+        "Data": "08/02/2025",
+        "Historico": "Roupas",
+        "Valor": -1776.85
+    },
+    {
+        "Data": "15/02/2025",
+        "Historico": "Gasolina",
+        "Valor": -2816.94
+    },
+    {
+        "Data": "25/02/2025",
+        "Historico": "Internet",
+        "Valor": -2606.2
+    },
+    {
+        "Data": "21/01/2025",
+        "Historico": "Delivery",
+        "Valor": -541.41
+    },
+    {
+        "Data": "20/02/2025",
+        "Historico": "Internet",
+        "Valor": -2065.92
+    },
+    {
+        "Data": "21/02/2025",
+        "Historico": "Café",
+        "Valor": -1680.23
+    },
+    {
+        "Data": "13/01/2025",
+        "Historico": "Pet shop",
+        "Valor": -1023.8
+    },
+    {
+        "Data": "22/01/2025",
+        "Historico": "Internet",
+        "Valor": -1977.62
+    },
+    {
+        "Data": "09/03/2025",
+        "Historico": "Supermercado",
+        "Valor": -2155.83
+    },
+    {
+        "Data": "24/02/2025",
+        "Historico": "Roupas",
+        "Valor": -1922.56
+    },
+    {
+        "Data": "20/02/2025",
+        "Historico": "Academia",
+        "Valor": -2654.54
+    },
+    {
+        "Data": "14/02/2025",
+        "Historico": "Uber",
+        "Valor": -1564.42
+    },
+    {
+        "Data": "08/03/2025",
+        "Historico": "Supermercado",
+        "Valor": -578.59
+    },
+    {
+        "Data": "18/02/2025",
+        "Historico": "Conta de Água",
+        "Valor": -2643.94
+    },
+    {
+        "Data": "27/01/2025",
+        "Historico": "Transporte",
+        "Valor": -2272.19
+    },
+    {
+        "Data": "06/01/2025",
+        "Historico": "Academia",
+        "Valor": -375.95
+    },
+    {
+        "Data": "14/01/2025",
+        "Historico": "Pet shop",
+        "Valor": -38.02
+    },
+    {
+        "Data": "16/02/2025",
+        "Historico": "Café",
+        "Valor": -182.56
+    },
+    {
+        "Data": "25/02/2025",
+        "Historico": "Academia",
+        "Valor": -139.48
+    },
+    {
+        "Data": "22/01/2025",
+        "Historico": "Estacionamento",
+        "Valor": -1011.29
+    },
+    {
+        "Data": "20/01/2025",
+        "Historico": "Supermercado",
+        "Valor": -1503.25
+    },
+    {
+        "Data": "21/01/2025",
+        "Historico": "Academia",
+        "Valor": -1433.89
+    },
+    {
+        "Data": "05/03/2025",
+        "Historico": "Transporte",
+        "Valor": -781.08
+    },
+    {
+        "Data": "19/01/2025",
+        "Historico": "Academia",
+        "Valor": -2623.32
+    },
+    {
+        "Data": "17/01/2025",
+        "Historico": "Manutenção do carro",
+        "Valor": -381.33
+    },
+    {
+        "Data": "26/02/2025",
+        "Historico": "Conta de Luz",
+        "Valor": -2907.91
+    },
+    {
+        "Data": "23/01/2025",
+        "Historico": "Delivery",
+        "Valor": -1908.7
+    },
+    {
+        "Data": "23/02/2025",
+        "Historico": "Uber",
+        "Valor": -496.61
+    },
+    {
+        "Data": "03/02/2025",
+        "Historico": "Roupas",
+        "Valor": -1142.22
+    },
+    {
+        "Data": "20/01/2025",
+        "Historico": "Pet shop",
+        "Valor": -712.39
+    },
+    {
+        "Data": "24/01/2025",
+        "Historico": "Roupas",
+        "Valor": -2863.64
+    },
+    {
+        "Data": "08/02/2025",
+        "Historico": "Pet shop",
+        "Valor": -2401.26
+    },
+    {
+        "Data": "09/01/2025",
+        "Historico": "Conta de Luz",
+        "Valor": -539.39
+    },
+    {
+        "Data": "03/03/2025",
+        "Historico": "Transporte",
+        "Valor": -76.56
+    },
+    {
+        "Data": "22/02/2025",
+        "Historico": "Telefone",
+        "Valor": -2835.64
+    },
+    {
+        "Data": "13/01/2025",
+        "Historico": "Conta de Luz",
+        "Valor": -730.6
+    },
+    {
+        "Data": "15/02/2025",
+        "Historico": "Estacionamento",
+        "Valor": -1593.1
+    },
+    {
+        "Data": "08/03/2025",
+        "Historico": "Roupas",
+        "Valor": -549.15
+    },
+    {
+        "Data": "23/01/2025",
+        "Historico": "Conta de Luz",
+        "Valor": -1736.06
+    },
+    {
+        "Data": "04/01/2025",
+        "Historico": "Restaurante",
+        "Valor": -2127.78
+    },
+    {
+        "Data": "27/02/2025",
+        "Historico": "Academia",
+        "Valor": -1752.02
+    },
+    {
+        "Data": "31/01/2025",
+        "Historico": "Conta de Água",
+        "Valor": -2075.65
+    },
+    {
+        "Data": "01/01/2025",
+        "Historico": "Supermercado",
+        "Valor": -656.47
+    },
+    {
+        "Data": "19/02/2025",
+        "Historico": "Pet shop",
+        "Valor": -2762.94
+    },
+    {
+        "Data": "01/01/2025",
+        "Historico": "Gasolina",
+        "Valor": -2701.48
+    },
+    {
+        "Data": "26/02/2025",
+        "Historico": "Café",
+        "Valor": -1537.04
+    },
+    {
+        "Data": "15/02/2025",
+        "Historico": "Estacionamento",
+        "Valor": -2004.4
+    },
+    {
+        "Data": "05/03/2025",
+        "Historico": "Cinema",
+        "Valor": -2920.04
+    },
+    {
+        "Data": "15/01/2025",
+        "Historico": "Estacionamento",
+        "Valor": -1679.8
+    },
+    {
+        "Data": "04/03/2025",
+        "Historico": "Café",
+        "Valor": -2571.12
+    },
+    {
+        "Data": "20/02/2025",
+        "Historico": "Café",
+        "Valor": -1321.09
+    },
+    {
+        "Data": "17/02/2025",
+        "Historico": "Transporte",
+        "Valor": -238.1
+    },
+    {
+        "Data": "18/02/2025",
+        "Historico": "Gasolina",
+        "Valor": -1644.64
+    },
+    {
+        "Data": "12/02/2025",
+        "Historico": "Manutenção do carro",
+        "Valor": -2464.51
+    },
+    {
+        "Data": "03/02/2025",
+        "Historico": "Cinema",
+        "Valor": -2235.53
+    },
+    {
+        "Data": "02/01/2025",
+        "Historico": "Farmácia",
+        "Valor": -184.71
+    },
+    {
+        "Data": "24/02/2025",
+        "Historico": "Pet shop",
+        "Valor": -444.29
+    }
+]
